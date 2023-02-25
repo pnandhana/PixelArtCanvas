@@ -1,6 +1,6 @@
 BLACK AND WHITE PIXEL ART CANVAS
 
-This program creates a simple black and white pixel art canvas using basic HTML<CSS< and JavaScript.
+This program creates a simple black and white pixel art canvas using basic HTML,CSS and JavaScript.
 You can click on each pixel to toggle its background color between black and white, allowing to create cute patterns.
 
 GETTING STARTED
@@ -13,8 +13,7 @@ you can customize the program in various ways,such as changing the size of the p
 
 ACKNOWLEDGEMENT
 I implemented this program inspired by the figma design of a pixel art canvas created by the youtube channel named "sketch together".
-This is the first program I'm implementing from scratch based on my every bit of knowledge in js,css and html, so I do believe it is not perfect and do have some flaws.,
-will develop this in to a better project in the future.
+Since this is my first program created entirely from scratch using my every ounce of knowledge in js,css and html, It may not be the complex program out there, and do contain flaws, will develop this in to a better project in the future.
 Thank you.
 
 
