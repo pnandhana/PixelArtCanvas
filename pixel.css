@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.container1{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:100px 200px;
+    
+}
+h1{
+    font-family: 'VT323', monospace;
+    font-size: 2rem;
+}
+    
+.canvas{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    width:500px;
+    height: 500px;
+
+}
+.pixel{
+    border: 2px black solid;
+}
+.pixel:hover{
+    background-color: grey;
+}
+.active{
+    background-color: black;
+}
